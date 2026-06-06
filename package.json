@@ -1,0 +1,13 @@
+{
+  "name": "buick-encore",
+  "version": "0.1.0",
+  "description": "Starter website for Buick Encore.",
+  "private": true,
+  "scripts": {
+    "start": "live-server --open=./index.html",
+    "serve": "npm run start"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
